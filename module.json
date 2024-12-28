@@ -1,0 +1,40 @@
+{
+  "id": "ancestries-by-sirniloc-dc20",
+  "title": "Ancestries by SirNiloc (DC20)",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dc20rpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "SirNiloc",
+      "discord": "sirniloc",
+      "email": "sirniloc@ravn-quest.com",
+      "url": "https://www.patreon.com/c/user/posts?u=193990&view_as=patron",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "sirnilocs-ancestries",
+      "label": "SirNiloc's Ancestries",
+      "path": "packs/sirnilocs-ancestries",
+      "type": "Item",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
