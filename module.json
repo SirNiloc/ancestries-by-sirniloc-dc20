@@ -1,6 +1,6 @@
 {
   "id": "ancestries-by-sirniloc-dc20",
-  "title": "Ancestries by SirNiloc (DC20)",
+  "title": "RAVN Quest: Ancestries",
   "version": "0.0.5",
   "manifest": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/v0.0.5/module.json",
   "download": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/v0.0.5/ancestries-by-sirniloc-dc20.zip",
@@ -36,7 +36,7 @@
   "packs": [
     {
       "name": "sirnilocs-ancestries",
-      "label": "SirNiloc's Ancestries",
+      "label": "RAVN Quest: Ancestries",
       "path": "packs/sirnilocs-ancestries",
       "type": "Item",
       "system": "dc20rpg",
