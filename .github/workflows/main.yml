@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: ncipollo/release-action@v1
-    - uses: Varriount/fvtt-autopublish@latest
+    - uses: Varriount/fvtt-autopublish@v2.0.2
       with:
         artifacts: "release.tar.gz,foo/*.txt,module.json,ancestries-by-sirniloc-dc20.zip"
         username: ${{ secrets.FOUNDRY_ADMIN_USERNAME }}
