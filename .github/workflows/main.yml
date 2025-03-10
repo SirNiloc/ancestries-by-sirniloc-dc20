@@ -3,7 +3,7 @@ on:
   push:
     tags:
     - '*'
-jobs:
+jobs:    
     build:
         runs-on: ubuntu-latest
         permissions:
@@ -13,3 +13,10 @@ jobs:
         - uses: ncipollo/release-action@v1
           with:
             artifacts: "release.tar.gz,foo/*.txt,module.json,module.zip"
+    vtt:
+        runs-on: ubuntu-latest
+        steps:
+        - uses: djlechuck/foundryvtt-publish-package-action@v1
+          with:
+              token: ${{ secrets.FOUNDRYVTT_RELEASE_TOKEN }}
+              manifest: 'https://github.com/${{ github.repository }}/releases/download/${{  github.ref_name }}/system.json'
