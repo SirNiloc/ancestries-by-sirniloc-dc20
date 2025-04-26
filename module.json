@@ -2,8 +2,8 @@
   "id": "ancestries-by-sirniloc-dc20",
   "title": "RAVN Quest: Ancestries",
   "version": "1.0.0",
-  "manifest": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/v0.0.5/module.json",
-  "download": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/v0.0.5/ancestries-by-sirniloc-dc20.zip",
+  "manifest": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/1.0.0/module.json",
+  "download": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
