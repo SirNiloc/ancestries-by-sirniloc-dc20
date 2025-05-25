@@ -1,14 +1,16 @@
-2025/04/26-14:03:14.372 35ac Recovering log #274
-2025/04/26-14:03:14.375 35ac Delete type=0 #274
-2025/04/26-14:03:14.375 35ac Delete type=3 #273
-2025/04/26-15:57:20.340 535c Level-0 table #278: started
-2025/04/26-15:57:20.348 535c Level-0 table #278: 100571 bytes OK
-2025/04/26-15:57:20.348 535c Delete type=0 #276
-2025/04/26-15:57:20.349 535c Manual compaction at level-0 from '!folders!9QvT6rFlU5L6DCWD' @ 72057594037927935 : 1 .. '!items.effects!szazuTyPznjC48W5.sIqdPdHpSbiycjtO' @ 0 : 0; will stop at '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 449 : 1
-2025/04/26-15:57:20.349 535c Compacting 1@0 + 1@1 files
-2025/04/26-15:57:20.356 535c Generated table #279@0: 32 keys, 34947 bytes
-2025/04/26-15:57:20.356 535c Compacted 1@0 + 1@1 files => 34947 bytes
-2025/04/26-15:57:20.356 535c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/26-15:57:20.356 535c Delete type=2 #192
-2025/04/26-15:57:20.357 535c Delete type=2 #278
-2025/04/26-15:57:20.358 535c Manual compaction at level-0 from '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 449 : 1 .. '!items.effects!szazuTyPznjC48W5.sIqdPdHpSbiycjtO' @ 0 : 0; will stop at (end)
+2025/05/25-17:15:49.626 350c Recovering log #404
+2025/05/25-17:15:49.626 350c Level-0 table #406: started
+2025/05/25-17:15:49.633 350c Level-0 table #406: 33123 bytes OK
+2025/05/25-17:15:49.637 350c Delete type=0 #404
+2025/05/25-17:15:49.637 350c Delete type=3 #403
+2025/05/25-17:16:15.569 319c Level-0 table #409: started
+2025/05/25-17:16:15.569 319c Level-0 table #409: 0 bytes OK
+2025/05/25-17:16:15.569 319c Delete type=0 #407
+2025/05/25-17:16:15.573 319c Manual compaction at level-0 from '!folders!9QvT6rFlU5L6DCWD' @ 72057594037927935 : 1 .. '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 0 : 0; will stop at '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 532 : 1
+2025/05/25-17:16:15.573 319c Compacting 1@0 + 1@1 files
+2025/05/25-17:16:15.581 319c Generated table #410@0: 24 keys, 33355 bytes
+2025/05/25-17:16:15.581 319c Compacted 1@0 + 1@1 files => 33355 bytes
+2025/05/25-17:16:15.582 319c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/25-17:16:15.582 319c Delete type=2 #402
+2025/05/25-17:16:15.583 319c Delete type=2 #406
+2025/05/25-17:16:15.829 319c Manual compaction at level-0 from '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 532 : 1 .. '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 0 : 0; will stop at (end)
