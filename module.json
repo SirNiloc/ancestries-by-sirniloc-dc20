@@ -1,12 +1,12 @@
 {
   "id": "ancestries-by-sirniloc-dc20",
   "title": "RAVN Quest: Ancestries",
-  "version": "1.0.0",
-  "manifest": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/1.0.0/module.json",
-  "download": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/1.0.0/module.zip",
+  "version": "2.0.0",
+  "manifest": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/2.0.0/module.json",
+  "download": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20/releases/download/2.0.0/module.zip",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "relationships": {
     "systems": [
@@ -29,7 +29,7 @@
       "name": "SirNiloc",
       "discord": "sirniloc",
       "email": "sirniloc@ravn-quest.com",
-      "url": "https://www.patreon.com/c/user/posts?u=193990&view_as=patron",
+      "url": "www.ravn-quest.com",
       "flags": {}
     }
   ],
@@ -46,5 +46,6 @@
       }
     }
   ],
-  "description": "This module adds additional Ancestry options."
+  "description": "<p>This module adds additional Ancestry options for DC20.</p>",
+  "url": "https://github.com/SirNiloc/ancestries-by-sirniloc-dc20"
 }
