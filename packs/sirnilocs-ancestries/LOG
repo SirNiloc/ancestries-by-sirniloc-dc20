@@ -1,14 +1,14 @@
-2025/05/25-17:17:40.039 6710 Recovering log #408
-2025/05/25-17:17:40.042 6710 Delete type=0 #408
-2025/05/25-17:17:40.042 6710 Delete type=3 #405
-2025/05/25-17:25:52.797 319c Level-0 table #414: started
-2025/05/25-17:25:52.806 319c Level-0 table #414: 33592 bytes OK
-2025/05/25-17:25:52.807 319c Delete type=0 #412
-2025/05/25-17:25:52.813 319c Manual compaction at level-0 from '!folders!9QvT6rFlU5L6DCWD' @ 72057594037927935 : 1 .. '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 0 : 0; will stop at '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 548 : 1
-2025/05/25-17:25:52.813 319c Compacting 1@0 + 1@1 files
-2025/05/25-17:25:52.822 319c Generated table #415@0: 24 keys, 33556 bytes
-2025/05/25-17:25:52.822 319c Compacted 1@0 + 1@1 files => 33556 bytes
-2025/05/25-17:25:52.823 319c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/25-17:25:52.823 319c Delete type=2 #410
-2025/05/25-17:25:52.823 319c Delete type=2 #414
-2025/05/25-17:25:52.829 319c Manual compaction at level-0 from '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 548 : 1 .. '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 0 : 0; will stop at (end)
+2025/05/29-05:39:02.644 5798 Recovering log #419
+2025/05/29-05:39:02.647 5798 Delete type=0 #419
+2025/05/29-05:39:02.647 5798 Delete type=3 #418
+2025/05/29-05:50:00.672 1fdc Level-0 table #423: started
+2025/05/29-05:50:00.680 1fdc Level-0 table #423: 84465 bytes OK
+2025/05/29-05:50:00.680 1fdc Delete type=0 #421
+2025/05/29-05:50:00.682 1fdc Manual compaction at level-0 from '!folders!9QvT6rFlU5L6DCWD' @ 72057594037927935 : 1 .. '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 0 : 0; will stop at '!items!or00yNWxfZ8wmzgq' @ 568 : 1
+2025/05/29-05:50:00.682 1fdc Compacting 1@0 + 1@1 files
+2025/05/29-05:50:00.689 1fdc Generated table #424@0: 24 keys, 33999 bytes
+2025/05/29-05:50:00.689 1fdc Compacted 1@0 + 1@1 files => 33999 bytes
+2025/05/29-05:50:00.690 1fdc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/29-05:50:00.690 1fdc Delete type=2 #415
+2025/05/29-05:50:00.690 1fdc Delete type=2 #423
+2025/05/29-05:50:00.690 1fdc Manual compaction at level-0 from '!items!or00yNWxfZ8wmzgq' @ 568 : 1 .. '!items.effects!elNNnKlVFeIsXZEw.gh3TKkVvCT8zeLXZ' @ 0 : 0; will stop at (end)
